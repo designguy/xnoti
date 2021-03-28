@@ -1,0 +1,3 @@
+npm publish process
+1. npm link --force
+2. log-run
